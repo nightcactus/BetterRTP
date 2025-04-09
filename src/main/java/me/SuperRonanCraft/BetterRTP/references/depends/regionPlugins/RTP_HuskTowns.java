@@ -4,6 +4,7 @@ import net.william278.husktowns.api.BukkitHuskTownsAPI;
 import org.bukkit.Location;
 
 public class RTP_HuskTowns implements RegionPluginCheck {
+
     @Override
     public boolean check(Location loc) {
         boolean result = true;
